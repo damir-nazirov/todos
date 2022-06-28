@@ -1,0 +1,38 @@
+
+.todo-item
+    width: 35vw
+    margin: 0 auto
+.round
+    width: 2rem
+    height: 2rem
+    padding-left: 0
+    &:hover
+        color: rgba(0, 0, 0, 0.7)
+.checkBtn
+    // border: 1px solid rgba(0, 0, 0, 0.125)
+    padding-left: 0
+    border: 0
+    color: #6c757d
+    margin-right: 12px
+    background-color: #fff
+.line-through 
+    text-decoration: line-through
+
+
+
+.item
+    &-enter
+        opacity: 0
+
+    &-enter-active
+        opacity: 1
+        transition: opacity 500ms ease-in
+
+    &-exit 
+        opacity: 1
+
+    &-exit-active
+        opacity: 0
+        transition: opacity 500ms ease-in
+
+    

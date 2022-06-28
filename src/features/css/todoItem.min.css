@@ -1,0 +1,2 @@
+.todo-item{width:35vw;margin:0 auto}.round{width:2rem;height:2rem;padding-left:0}.round:hover{color:rgba(0,0,0,0.7)}.checkBtn{padding-left:0;border:0;color:#6c757d;margin-right:12px;background-color:#fff}.line-through{text-decoration:line-through}.item-enter{opacity:0}.item-enter-active{opacity:1;-webkit-transition:opacity 500ms ease-in;transition:opacity 500ms ease-in}.item-exit{opacity:1}.item-exit-active{opacity:0;-webkit-transition:opacity 500ms ease-in;transition:opacity 500ms ease-in}
+/*# sourceMappingURL=todoItem.min.css.map */

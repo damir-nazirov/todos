@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,SAAS,AAAC,CACN,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,MAAM,CACd,WAAW,CAAE,IAAI,CACjB,aAAa,CAAE,KAAK,CAAG",
+    "sources": [
+        "../todoInput/todoInput.sass"
+    ],
+    "names": [],
+    "file": "todoInput.min.css"
+}
